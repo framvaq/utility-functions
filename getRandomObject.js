@@ -1,1 +1,1 @@
-const ejemplo = ejemplo;
+const ejemplo = "ejemplo";
