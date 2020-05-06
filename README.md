@@ -1,6 +1,6 @@
-Descripción
+# Descripción
 
-# Ejemplo
+### Ejemplo
 ```
 Código de ejemplo;
 1++ == 1
